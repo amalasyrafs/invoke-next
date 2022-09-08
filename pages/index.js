@@ -1,11 +1,11 @@
 import Head from "next/head";
 import Image from "next/image";
-import styles from "../styles/Home.module.css";
+import Corporate from "../components/Home/Corporate";
 
 export default function Home() {
   return (
-    <div className={styles.container}>
-      <h1>yea</h1>
-    </div>
+    <>
+      <Corporate />
+    </>
   );
 }
