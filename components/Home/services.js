@@ -21,7 +21,7 @@ const SERVICES = [
     id: "lts",
     title: "LTS",
     role: "Lead-to-Sale",
-    defintion:
+    definition:
       "We are your revenue growth enabler. We generate leads for you, digitalise your sales funnel, screen the leads and help you convert the leads into sales.",
     mainImage: ltsMainImg,
     image: ltsImg,
@@ -32,8 +32,8 @@ const SERVICES = [
     id: "dm",
     title: "Digital Marketing",
     role: "Data-driven digital marketing",
-    defintion:
-      "We curate custom audiance using data science to micro-target the right customer for your products.",
+    definition:
+      "We curate custom audience using data science to micro-target the right customer for your products.",
     mainImage: dmMainImg,
     image: dmImg,
     route: "/digital-marketing",
@@ -43,7 +43,7 @@ const SERVICES = [
     id: "analytics",
     title: "Analytics",
     role: "Data science solution",
-    defintion:
+    definition:
       "We develop and own a database of 20+ million consumers. Enrich your business data with our third-party data to create predictive models for your business.",
     mainImage: analyticsMainImg,
     image: analyticsImg,
@@ -54,7 +54,7 @@ const SERVICES = [
     id: "app",
     title: "Application Development",
     role: "Software & data system development",
-    defintion:
+    definition:
       "We design-and-develop (D&D) software and cloud-based applications with predictive data engine and algorithms to suit your business needs.",
     mainImage: appMainImg,
     image: appImg,
@@ -65,7 +65,7 @@ const SERVICES = [
     id: "survey",
     title: "Surveys",
     role: "Database development & raw data collection",
-    defintion:
+    definition:
       "We run one of the largest Call Centers dedicated for surveys in the market. Understand what your customers want. Drive your business growth with data.",
     mainImage: surveyMainImg,
     image: surveyImg,
