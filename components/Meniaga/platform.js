@@ -9,7 +9,7 @@ export default function Platform() {
           <p className="mb-[5vh] font-sans text-[2em] text-[#DC0246] leading-[1.5em] font-bold">
             Another e-commerce platform?
           </p>
-          <div className="flex flex-col lg:flex-row lg:flex-wrap gap-5 lg:justify-between">
+          <div className="flex flex-col lg:flex-row lg:flex-wrap gap-10 lg:justify-between">
             <div className="lg:w-3/12">
               <p className="font-sans text-[1.1em] text-black leading-[1.5em] font-thin">
                 Cash-on-delivery (COD) only platform for microbusinesses and

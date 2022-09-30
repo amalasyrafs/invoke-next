@@ -18,12 +18,16 @@ export default function Community() {
           <p className="font-sans text-[2.2em] text-white leading-[1.5em] font-normal">
             Join meniaga community to buy and sell in your locality.
           </p>
-          <div className="flex mt-5 lg:w-5/12 gap-5">
+          <div className="flex mt-5 lg:w-4/12 gap-5">
             <Link href="https://play.google.com/store/apps/details?id=com.invoke.meniaga.my">
-              <Image className="w-1/12" src={PlayStore} alt="Play Store logo" />
+              <a>
+                <Image src={PlayStore} alt="Play Store logo" />
+              </a>
             </Link>
             <Link href="https://apps.apple.com/my/app/meniaga-my/id1516839999">
-              <Image src={AppStore} alt="App Store logo" />
+              <a>
+                <Image src={AppStore} alt="App Store logo" />
+              </a>
             </Link>
           </div>
         </div>
