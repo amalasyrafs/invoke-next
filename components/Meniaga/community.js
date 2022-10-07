@@ -15,7 +15,7 @@ export default function Community() {
             Tap into your hidden
             <span className="font-bold"> economic potential.</span>
           </p>
-          <p className="font-sans text-[2.2em] text-white leading-[1.5em] font-normal">
+          <p className="font-sans text-[2.2em] lg:w-9/12 text-white leading-[1.5em] font-normal">
             Join meniaga community to buy and sell in your locality.
           </p>
           <div className="flex mt-5 lg:w-4/12 gap-5">

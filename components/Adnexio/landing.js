@@ -14,8 +14,8 @@ export default function Landing() {
         </div>
         <div className="flex w-full">
           <div className="lg:w-1/12"></div>
-          <div className="lg:w-7/12 px-4">
-            <p className="mt-[25vh] font-sans text-[3.5em] lg:text-[4em] leading-[1em] font-normal">
+          <div className="lg:w-7/12 px-4 flex flex-col justify-center min-h-screen">
+            <p className="font-sans text-white text-[3.5em] lg:text-[4em] leading-[1em] font-normal">
               <u>Sharpening</u>
               <br />
               talent
